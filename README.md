@@ -1,4 +1,4 @@
-# Department_Faculcity_Mini
+# Department_Faculcity_Mini - Not Done
 This project is using **Sequelize ORM** and **Express JS**
 
 ## RELATIONSHIP
